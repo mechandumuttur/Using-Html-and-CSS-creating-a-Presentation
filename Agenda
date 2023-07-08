@@ -1,0 +1,13 @@
+<html>
+<body text="white" background="f4.jpg" height="1000" width="1000">
+<h1>AGENDA</h1>
+<hr>
+<ul>
+<h3><li><a href="3rd page.html"><font color="white">Introduction</font></a></li>
+<li><a href="4th page.html"><font color="white">Types</font></a></li>
+<li><a href="5th page.html"><font color="white">Applications</font></a></li>
+<li><a href="6th page.html"><font color="white">Benefits</font></a></li>
+<li><a href="7th page.html"><font color="white">Advantages</font></a></li>
+<li><a href="8th page.html"><font color="white">Disadvantages</font></a></li>
+</h3></body>
+</html>
