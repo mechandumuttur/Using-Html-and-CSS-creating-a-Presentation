@@ -1,0 +1,14 @@
+<html>
+<body text="black">
+<h2>Disadvantages of neural network:</h2>
+<ul><h4><li>Forgent</li><br>
+<li>Not exact</li><br>
+<li>Large complexity of the network structure</li><br>
+<li>Hardwere depandent: Artificial neural networks require proessors whit parall processing power,in accordance whit their structure, for this reason, the realization of the equipment is depandent</li>
+<br><li>Parallel processing capability: Artificial neural networks have numerical strength that can perform more than one job at the same time.</li>
+<br><li>Determination of proper network structure:There is no specific rule for determing the structure of  artifical neural</li>
+<br><li>Unexplaind behavior of the network:This is the most important of annWHEN ANN produces a probing soluation,it does not give a clue as to why and how this reduces trust in the network</li>
+<br><li>Difficulty of showing the proble network:ANNs can work whit numarical information. problems have to be translated into numerical values before being  introdced to ANN. the disply mechanism to be determind here will directly inflence performace of the network</li>
+</ul></h4>
+</body>
+</html>
