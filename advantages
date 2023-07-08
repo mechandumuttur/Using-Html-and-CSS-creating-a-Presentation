@@ -1,0 +1,19 @@
+<html>
+<body text="black">
+<a href="8th page.html"><font color="black"><h2>Advantages of neural networks:</h2></font></a>
+<ul type="square">
+<h4><li>Adapt to unknown situations</li><br>
+<li>powerful,it can model complex functions.</li><br>
+<li>A neural network can implement tasks that a linear program cannot.<li><br>
+<li>When an item of the neural network declines, it can continue without some issues by its parallel features.</li><br>
+<li>A neural network determines and does not require to be reprogrammed.</li><br>
+<li>It can be executed in any application.<li><br>
+<li>Easy of use,learns by example,and very little user domain specific expertise needed.</li><br>
+<br><li>Storing information on the entire network:Information such as in traditional programming is stored on the entire network,not on a database. the disappearance of a few pieces of information in one place does not prevent the network of from functioning.</li>
+<br><li>Ability to work with in complet knowledge:After ANN training,the data may produce output even with incomplete information.</li>
+<br><li>Having fault tolerance:Corruption of one or more cells of ANN does not prevent it from generating output.This feature makes the networks fault tolerant</li>
+<br><LI>Ability to mack machine learing: Artificial neural  network learn events and make decisions by commenting on similler events.</li>
+<br><li>Parllel processing capability: Artificial neural networks have numerical strength that can perform more than one job at the same time.</li>
+</h4></ul>
+</body>
+</html>
