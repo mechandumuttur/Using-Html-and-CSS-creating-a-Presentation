@@ -1,0 +1,17 @@
+<html>
+<body text="white" background="f4.jpg" width="400" height="300"><div align="center">
+<a href="5th page.html"><font color="black"><h1>Types of neural networks:</h1></font></a></div>
+<h4>
+<ol> 
+<li>Perceptron model: <br><br>Perceptron model, proposed by Minsky-Papert is one of the simplest and oldest models of Neuron. It is the smallest unit of neural network that does certain computations to detect features or business intelligence in the input data. It accepts weighted inputs, and apply the activation function to obtain the output as the final result.</li>
+<br><li>Feed-forward and neural network:<br><br>The simplest form of neural networks where input data travels in one direction only, passing through artificial neural nodes and exiting through output nodes. Where hidden layers may or may not be present, input and output layers are present there. Based on this, they can be further classified as a single-layered or multi-layered feed-forward neural network.</li><br>
+<li>Radial basis function(RBF)network:<br><br>Radial Basis Function Network consists of an input vector followed by a layer of RBF neurons and an output layer with one node per category. Classification is performed by measuring the input’s similarity to data points from the training set where each neuron stores a prototype. This will be one of the examples from the training set.</li><br>
+<li>Kohonen self organising network:<br><br></li><br>
+<li>Learning vector quantization </li><br>
+<li>Recurrent network</li><br>
+<li>Modular network</li><br>
+<li>Physical network</li><br>
+<li>Other types of neural networks</li><br>
+(holographic associative memory)</ol></h4>
+</body>
+</html>
