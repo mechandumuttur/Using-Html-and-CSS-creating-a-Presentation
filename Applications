@@ -1,0 +1,15 @@
+<html>
+<body text="white" background="F:\diploma\ppts\html ppt\n2.jpg">
+<div align="center">
+<a href="6th page.html"><font color="white"><h2>Applications:</font></h2></a></div>
+<h4>image recognition was one of the first area to which neural networks were successfully applied,but the technology uses as expanded to many more areas,including:
+<ul type="square">
+<li>Natural language processing,translation and language generation.</li>
+<li>Stock market prediction.</li>
+<li>Delivery driver route planning and optimization.</li>
+<li>Drug discovery and development.</li>
+<li>Sport:horse and dog racing.</li>
+<li>Science: solar flares, protein sequencing,mosquito ID,weather.</li>
+</ul></h4>
+</body>
+</html>
